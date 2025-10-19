@@ -1,4 +1,4 @@
-package q1test;/*
+package q1;/*
  * Given a binary search tree, implement a method to find the sum of the values of all the nodes that have an odd number of direct children. You can define additional methods of BST and Node classes to complete the task. The method signature is: public Integer oddNodeSum()
  * 
  */
