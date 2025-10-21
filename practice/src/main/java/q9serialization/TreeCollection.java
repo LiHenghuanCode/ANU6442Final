@@ -54,7 +54,7 @@ public class TreeCollection {
 	public static TreeCollection loadFromFile(File file) {
 		//START YOUT CODE
 		
-		
+		return null;
 		//END YOUT CODE	
 	}
 

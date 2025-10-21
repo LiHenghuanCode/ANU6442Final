@@ -2,6 +2,9 @@ package q3test;
 
 import org.junit.Before;
 import org.junit.Test;
+import q3Tree.RBTree;
+
+import static org.junit.Assert.assertEquals;
 
 public class RBTreeTest {
 

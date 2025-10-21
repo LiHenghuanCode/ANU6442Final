@@ -1,6 +1,7 @@
 package q4test;
 
 import org.junit.Test;
+import q4Tree.BranchComplete;
 
 /**
  * Fill in the items below with your UID and name:

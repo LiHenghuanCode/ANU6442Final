@@ -2,9 +2,9 @@ package q4test;
 
 import org.junit.Before;
 import org.junit.Test;
+import q4Tree.BST;
 
-import static org.junit.Assert.assertNull;
-import static org.junit.Assert.assertTrue;
+import static org.junit.Assert.*;
 
 public class BSTTest {
 

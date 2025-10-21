@@ -51,7 +51,7 @@ public class StudentCollection {
 	 */
 	public static StudentCollection loadFromFile(File file) {
 		//START YOUR CODE
-		
+		return null;
 		//END YOUR CODE
 	}
 
