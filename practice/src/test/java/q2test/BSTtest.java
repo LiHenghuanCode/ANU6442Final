@@ -1,8 +1,8 @@
 package q2test;
 
 import org.junit.Test;
-import q2.BST;
-import q2.Key;
+import q2Tree.BST;
+import q2Tree.Key;
 
 import java.util.Arrays;
 import java.util.List;

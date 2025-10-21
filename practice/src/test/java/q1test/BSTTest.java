@@ -2,7 +2,7 @@ package q1test;
 
 import org.junit.Before;
 import org.junit.Test;
-import q1.BST;
+import q1Tree.BST;
 
 import static org.junit.Assert.assertEquals;
 

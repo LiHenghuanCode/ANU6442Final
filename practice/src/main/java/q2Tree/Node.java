@@ -1,4 +1,4 @@
-package q2;
+package q2Tree;
 
 public class Node {
 
