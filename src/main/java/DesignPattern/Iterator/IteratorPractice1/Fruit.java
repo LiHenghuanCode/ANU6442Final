@@ -1,0 +1,6 @@
+package DesignPattern.Iterator.IteratorPractice1;
+
+public enum Fruit {
+	APPLE, BANANA, PEAR, GRAPES, LEMON, ORANGE, KIWI, WATERMELON, PEACH, PINEAPPLE, MANGO, CHERRY,
+	DRAGONFRUIT, STRAWBERRY, PAWPAW;
+}

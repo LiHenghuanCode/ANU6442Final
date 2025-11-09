@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<people>
+    <person>
+        <id>33</id>
+        <name>John</name>
+        <age>20</age>
+        <occupation>Student</occupation>
+    </person>
+    <person>
+        <id>88</id>
+        <name>Tom</name>
+        <age>21</age>
+        <occupation>Student</occupation>
+    </person>
+    <person>
+        <id>11</id>
+        <name>Jerry</name>
+        <age>40</age>
+        <occupation>Lecturer</occupation>
+    </person>
+    <person>
+        <id>43</id>
+        <name>Ben</name>
+        <age>45</age>
+        <occupation>Youtuber</occupation>
+    </person>
+    <person>
+        <id>16</id>
+        <name>Paul</name>
+        <age>40</age>
+        <occupation>Programmer</occupation>
+    </person>
+    <person>
+        <id>10</id>
+        <name>Mary</name>
+        <age>35</age>
+        <occupation>Manager</occupation>
+    </person>
+</people>
